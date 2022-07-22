@@ -13,6 +13,9 @@ A super light, fast and simple tho advanced Music Bot, without any Music Manager
 - **RAM:** 40-50mb on idle, + 15-20mb / Audio Connection (for more than 100+ Servers, 250mb Ram recommended)
 - **CPU:** 2-8% of a 2ghz CORE on idle, 20% of a 2ghz Core, while fetching youtube, 30% of a 2ghz Core, while changing the FILTERS
 
+## Replit Installation
+- [Click here to import direct on replit](https://repl.it/github/WilardzySenpai/Replit-Fast-Music)
+
 ## Support Server:
 
 > https://discord.gg/milrato
